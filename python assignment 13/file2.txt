@@ -1,0 +1,3 @@
+I want to add new contents
+
+Now the file has more content !
